@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Facebook</string>
+    <string name="Close">Close</string>
+    <string name="Open">Open</string>
+    <string name="deskription_Sepeda">Deskripsi Menu</string>
+    <string name="ingredients">Bahan</string>
+    <string name="price">Harga</string>
+    <string name="Harga_gitar">Rp. 5.000.000</string>
+    <string name="Spesifikasi">Include Pre-amp</string>
+    <string name="deskription_sepeda">Deskripsi Sepeda</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close NavigationDrawer</string>
+    <string-array name="Sepeda">
+        <item>Gitar Akustik</item>
+        <item>Gitar Elektrik</item>
+        <item>Gitar Bass</item>
+    </string-array>
+    <string-array name="star">
+        <item>4.5</item>
+        <item>4.7</item>
+        <item>4.4</item>
+    </string-array>
+    <string-array name="deskripsi">
+        <item>Rp. 5.000.000</item>
+        <item>Rp. 2.000.000</item>
+        <item>Rp. 3.500.000</item>
+    </string-array>
+
+    <!--    pertemuan 10-->
+    <string name="hello_blank_fragment">Hello blank
+fragment</string>
+    <string name="swipe_left_for_register">Swipe Left for
+Register</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="e_mail">Email</string>
+    <string name="tagLogin">Let\'s join us and \nLogin Your
+Account</string>
+    <string name="tagRegister">Let\'s Register Your Account And
+\nGo Back To Login</string>
+    <string name="swipe_right_for_login">Swipe Right for
+Login</string>
+    <string name="register">Register</string>
+    <string name="your_name">Full Name</string>
+    <string name="username">Username</string>
+</resources>
